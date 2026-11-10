@@ -1,0 +1,9 @@
+.player-cloud{display:flex;align-items:center;gap:12px;font-size:12px;color:#758193}
+.player-cloud button{padding:4px 9px;font-size:12px;border:1px solid #bbc5d1;background:#ffffff80;color:#4c5c70;border-radius:5px}
+.player-cloud button:hover{background:#fff}.player-cloud button:disabled{opacity:.65}
+.cloud-settings h3{font-size:17px;font-weight:600;margin:0 0 13px}.cloud-settings p{font-size:15px;line-height:1.65;margin:8px 0}
+.cloud-settings .cloud-note{font-size:13px;color:#718095}.cloud-actions{display:flex;gap:8px;margin:15px 0}
+.cloud-actions button{background:#eef3f9;border:1px solid #b6c5d9;color:#3d5b84;font-size:14px}
+.cloud-cache{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:17px;font-size:13px;color:#78879b}
+.cloud-cache button,#cloud-cancel{font-size:13px;padding:6px 8px;color:#536b89;border-color:#c9d2df}
+.cloud-connect-cta{margin-top:17px;border:1px solid #9aafcc;background:#edf3ff;color:#345478;font-size:15px;padding:9px 18px}

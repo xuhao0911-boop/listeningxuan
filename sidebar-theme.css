@@ -1,0 +1,27 @@
+:root{--w-paper:#fdfdfc;--w-rail:#f3f4f3;--w-head:#ffffff;--w-card:#ffffff;--w-line:#dedfdd;--w-edge:#b9bfC5;--w-ink:#303437;--w-muted:#6f767b;--w-brand:#4d535b;--w-hover:#f1f2f1;--w-well:#f3f4f2;--w-navActive:#3c4147;--w-navInk:#ffffff;--w-navEdge:#3c4147;--w-filter:#3c4147;--w-filterEdge:#3c4147;--w-filterInk:#ffffff;--w-active:#eceeec;--w-activeEdge:#bdc3c5;--w-accent:#454b51}
+ aside{background:var(--w-paper);border-right:2px solid var(--w-edge);box-shadow:3px 0 12px #1524380a}
+ .rail{background:var(--w-rail);border-right:1px solid var(--w-line);color:var(--w-muted)}
+ .rail button{color:var(--w-muted)}.rail button:hover{background:var(--w-hover);border-color:var(--w-edge);color:var(--w-ink)}
+ .rail-brand{color:var(--w-ink)}.rail-brand span{color:var(--w-brand)}
+ .rail .rail-tab.active{background:var(--w-navActive)!important;color:var(--w-navInk)!important;border-color:var(--w-navEdge);box-shadow:none}
+ .rail-divider{background:var(--w-line)}
+ #sidebar-toggle{background:var(--w-card);border-color:var(--w-edge);color:var(--w-muted)}
+ .library-drawer{background:var(--w-paper);color:var(--w-ink)}
+ .drawer-head{background:var(--w-head);border-bottom:1px solid var(--w-edge)}.brand{color:var(--w-ink)}.brand span{color:var(--w-brand)}.drawer-label{color:var(--w-muted)}
+ .library-tools{background:var(--w-paper);border-bottom-color:var(--w-line)}
+ input[type=search]{background:var(--w-well);border-color:var(--w-line);color:var(--w-ink)}input[type=search]::placeholder{color:var(--w-muted)}
+ .filters{background:var(--w-well);border-color:var(--w-line)}.filters button{color:var(--w-muted)}.filters button:hover{background:var(--w-hover);color:var(--w-ink)}
+ .filters button.active{background:var(--w-filter);border-color:var(--w-filterEdge);color:var(--w-filterInk)}
+ #library{scrollbar-color:var(--w-edge) transparent;background:var(--w-paper)}
+ .lesson{background:var(--w-card);border-color:var(--w-line);box-shadow:none}.lesson:hover{background:var(--w-hover);border-color:var(--w-edge)}
+ .lesson.active{background:var(--w-active);border-color:var(--w-activeEdge);box-shadow:inset 3px 0 var(--w-accent)}
+ .lesson strong,.lesson.active strong{color:var(--w-ink)}.lesson small{color:var(--w-muted)}.avatar{background:var(--w-well);border-color:var(--w-line)}
+ .sidebar-actions{background:var(--w-head);border-color:var(--w-edge)}.sidebar-actions button{background:var(--w-card);border-color:var(--w-edge);color:var(--w-ink)}.sidebar-actions button:hover{background:var(--w-hover)}
+ .empty{color:var(--w-muted)}
+
+  .filters{background:transparent;border:0;padding:0;gap:5px}.filters button{border-radius:5px;padding:7px 0}
+  #library{padding:8px 11px}.lesson{border-radius:5px;border:1px solid transparent;border-bottom-color:#e0e2df;margin:3px 0;padding:14px 8px;min-height:82px}
+  .lesson.active{border-color:#bdc3c5}.avatar{border-radius:4px}.sidebar-actions button{border-color:#a7afb5;background:#fdfdfc}
+ 
+/* Keep initials and saved markers legible on the light sidebar. */
+.avatar{color:var(--w-muted)}.saved-badge{color:#967241}
