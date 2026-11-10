@@ -1,0 +1,311 @@
+{
+  "format": "Compressed display assets; original artwork is retained locally.",
+  "images": [
+    {
+      "original": "audio-poster.svg",
+      "deployed": "audio-poster.svg",
+      "original_sha256": "dbfb2567221985806e0470844396b795f2787dd1dc4a10304ec7f22c9fa4f4af",
+      "bytes": 417
+    },
+    {
+      "original": "documents/ielts-answers-01.png",
+      "deployed": "documents/ielts-answers-01.png.webp",
+      "original_sha256": "81a6e29453d4f1d3a9bc47d8c83511127feb56f4db1944f09e50aa7ad06920fd",
+      "bytes": 14820
+    },
+    {
+      "original": "documents/ielts-answers-02.png",
+      "deployed": "documents/ielts-answers-02.png.webp",
+      "original_sha256": "2387e1875b9e59f8837fdf643a2ce5e389321f6591881d986537ccea292abc8e",
+      "bytes": 24768
+    },
+    {
+      "original": "documents/ielts-questions-01.png",
+      "deployed": "documents/ielts-questions-01.png.webp",
+      "original_sha256": "ee9f986d28f3f535688420d0d9fc612df1da3db3a2e293b9b23e8fdcd15c0e30",
+      "bytes": 9386
+    },
+    {
+      "original": "documents/ielts-questions-02.png",
+      "deployed": "documents/ielts-questions-02.png.webp",
+      "original_sha256": "5428bd000d4f388452dcf39fb611ae0eb954b98945570b835bfa2ed9d329e459",
+      "bytes": 23728
+    },
+    {
+      "original": "documents/ielts-questions-03.png",
+      "deployed": "documents/ielts-questions-03.png.webp",
+      "original_sha256": "1960043880d6d24ec1cf2757ae071f049132d307e8648294341d247207dc40a2",
+      "bytes": 3760
+    },
+    {
+      "original": "documents/ielts-questions-04.png",
+      "deployed": "documents/ielts-questions-04.png.webp",
+      "original_sha256": "2504cae4e2c746a51c893bb74a3367fd36ba6c747af1f87c4df03c2c243bd858",
+      "bytes": 20192
+    },
+    {
+      "original": "documents/ielts-questions-05.png",
+      "deployed": "documents/ielts-questions-05.png.webp",
+      "original_sha256": "e8da224e3be0542d62a7732ccbcc27304cb74ccb577230e1910f847035d4fc4a",
+      "bytes": 8572
+    },
+    {
+      "original": "documents/ielts-questions-06.png",
+      "deployed": "documents/ielts-questions-06.png.webp",
+      "original_sha256": "bebbf764b3d39918e0cb89f754ccb397ad8e12cba1a0177bb456cf9d60a118fa",
+      "bytes": 13800
+    },
+    {
+      "original": "documents/ielts-questions-07.png",
+      "deployed": "documents/ielts-questions-07.png.webp",
+      "original_sha256": "80442147a8a0c79d80f24990df976c17f9875bafa12ad5b6b13c346264d2a21f",
+      "bytes": 24428
+    },
+    {
+      "original": "documents/ielts-questions-08.png",
+      "deployed": "documents/ielts-questions-08.png.webp",
+      "original_sha256": "042bb000d26b3a9719e864d01b14b0ee44e38f5ed33ff12decacdc08a78ea19b",
+      "bytes": 22628
+    },
+    {
+      "original": "documents/ielts-questions-09.png",
+      "deployed": "documents/ielts-questions-09.png.webp",
+      "original_sha256": "bc0e9d05230eb5080220ff5ab9703e3ff735aaaf6048abea2ac837a9b5a16667",
+      "bytes": 8820
+    },
+    {
+      "original": "documents/ielts-questions-10.png",
+      "deployed": "documents/ielts-questions-10.png.webp",
+      "original_sha256": "6b6cf8d31711bd7e0a267549effb449d6ca0942ec19385c7ea48a5411cd772a9",
+      "bytes": 19646
+    },
+    {
+      "original": "documents/ielts-questions-11.png",
+      "deployed": "documents/ielts-questions-11.png.webp",
+      "original_sha256": "5ac8b8b4063229d028266b62fd41efb8dc5e8762f5f4481e7db395d6be3ebf62",
+      "bytes": 16176
+    },
+    {
+      "original": "documents/ielts-questions-12.png",
+      "deployed": "documents/ielts-questions-12.png.webp",
+      "original_sha256": "7e3b8c18123fc9572e63c1427bbe2e27d3b788f5300def61dbfad2362e4ebe38",
+      "bytes": 16412
+    },
+    {
+      "original": "documents/ielts-questions-13.png",
+      "deployed": "documents/ielts-questions-13.png.webp",
+      "original_sha256": "a5c71706328a45c6ce2f7884cab70e7cd6f700fe6c402ac08020e33f916329dd",
+      "bytes": 20940
+    },
+    {
+      "original": "documents/ielts-questions-14.png",
+      "deployed": "documents/ielts-questions-14.png.webp",
+      "original_sha256": "01fce5ca5ab62bcbcd45c65cd4c3b8a9861fbe909b472de9f5fb80764a8460d9",
+      "bytes": 15610
+    },
+    {
+      "original": "documents/ielts-questions-15.png",
+      "deployed": "documents/ielts-questions-15.png.webp",
+      "original_sha256": "4bd335ce2d4cbf1ecfbacf69e3c2f04aa0cbde16b4bf28a96d69343af664c432",
+      "bytes": 13226
+    },
+    {
+      "original": "documents/ielts-questions-16.png",
+      "deployed": "documents/ielts-questions-16.png.webp",
+      "original_sha256": "352bb7406db4850a8d3960f3272db5057830c53a15c0125677eea461e5306ee9",
+      "bytes": 4086
+    },
+    {
+      "original": "icon.ico",
+      "deployed": "icon.ico",
+      "original_sha256": "7dd6d7017447385c00c39050e2ca8626681b13e4524e45b1a66fa588f8272d39",
+      "bytes": 10366
+    },
+    {
+      "original": "posters/acton.webp",
+      "deployed": "posters/acton.webp",
+      "original_sha256": "eccdbba0654f6c66adf948401a2ee5e1a4590cc8a8c8d7ed65db4a973d0773c7",
+      "bytes": 11484
+    },
+    {
+      "original": "posters/andrews.webp",
+      "deployed": "posters/andrews.webp",
+      "original_sha256": "df7f252e228a4695b9117020e5a4bc81381bd64deee3c6aeadd3a3d5c46bf44d",
+      "bytes": 41210
+    },
+    {
+      "original": "posters/barr.webp",
+      "deployed": "posters/barr.webp",
+      "original_sha256": "3df21a67c1f72899447c5f7447cfc2d81bcc02863cba8ee7ecf078a0e06bfe16",
+      "bytes": 56380
+    },
+    {
+      "original": "posters/benson.webp",
+      "deployed": "posters/benson.webp",
+      "original_sha256": "12be6f98cabb53091a37df796650269a9d68fe5cc9b07191bd2348f3253f37f8",
+      "bytes": 51468
+    },
+    {
+      "original": "posters/booker.webp",
+      "deployed": "posters/booker.webp",
+      "original_sha256": "8f0c638b56713f5866e7ebb14f86f1348055032f1620506c24268ff73bb94cf1",
+      "bytes": 62440
+    },
+    {
+      "original": "posters/bottoms.webp",
+      "deployed": "posters/bottoms.webp",
+      "original_sha256": "95632160e42206fc34f35b5a5e3d5ad37d38a47593846b2560b71a014b5a93ef",
+      "bytes": 79084
+    },
+    {
+      "original": "posters/brown.webp",
+      "deployed": "posters/brown.webp",
+      "original_sha256": "cca96f39a799622bf129ab5d5108df1055336dee67e500581f3febb89b6d4c04",
+      "bytes": 63362
+    },
+    {
+      "original": "posters/cooper.webp",
+      "deployed": "posters/cooper.webp",
+      "original_sha256": "6ea0ed7b0276580236866556f803ad2e2667f9fd499e673502e3408d133d13ba",
+      "bytes": 33368
+    },
+    {
+      "original": "posters/crowley.webp",
+      "deployed": "posters/crowley.webp",
+      "original_sha256": "3778e4076620529f6d71f2ef27da0047d400428874808306e3076e1af02e2f0c",
+      "bytes": 45210
+    },
+    {
+      "original": "posters/donalds.webp",
+      "deployed": "posters/donalds.webp",
+      "original_sha256": "595a6403444747b9dbd041381bd36701310796da3a1ef59261a9bfc079310a18",
+      "bytes": 66572
+    },
+    {
+      "original": "posters/elsayed.jpg",
+      "deployed": "posters/elsayed.jpg.webp",
+      "original_sha256": "3e6fabc85e62182a2f64589cb026d53f35f1ccee5c0df49290627b944c088b29",
+      "bytes": 22454
+    },
+    {
+      "original": "posters/flanagan.jpg",
+      "deployed": "posters/flanagan.jpg.webp",
+      "original_sha256": "88f78ab5b1605163f95a8407115c44cd284dd0be42dd986272cff25d962200f9",
+      "bytes": 78818
+    },
+    {
+      "original": "posters/haaland.webp",
+      "deployed": "posters/haaland.webp",
+      "original_sha256": "e51a6b54b939c0315ede4623166f237996fa989a22d78a375f78b38552f9cb55",
+      "bytes": 52080
+    },
+    {
+      "original": "posters/hamilton.webp",
+      "deployed": "posters/hamilton.webp",
+      "original_sha256": "73c30cacae5199f9b07df3d31c74732d81fcdbd43026f17c715a8457b7f2e720",
+      "bytes": 23716
+    },
+    {
+      "original": "posters/healey.webp",
+      "deployed": "posters/healey.webp",
+      "original_sha256": "de6cd528a4f0185ab6375d7aa341910e252db1a6f2635688ce5ca1b9dc795d66",
+      "bytes": 42902
+    },
+    {
+      "original": "posters/hickenlooper.webp",
+      "deployed": "posters/hickenlooper.webp",
+      "original_sha256": "6955a32b93f47335c39b0d5f28483e9583b683d124c93ab36b9f3bdbea103fca",
+      "bytes": 18326
+    },
+    {
+      "original": "posters/hinojosa.webp",
+      "deployed": "posters/hinojosa.webp",
+      "original_sha256": "c6f7f4adba9d48617fc550f69d2e7382f6410834af85deb1e6d32bc9388510c0",
+      "bytes": 30242
+    },
+    {
+      "original": "posters/hochul.webp",
+      "deployed": "posters/hochul.webp",
+      "original_sha256": "2113c86a50734f06ab0aca263780053f6974f4c81084aa07c66e329a1bfde3ed",
+      "bytes": 44182
+    },
+    {
+      "original": "posters/ielts-official.svg",
+      "deployed": "posters/ielts-official.svg",
+      "original_sha256": "dbfb2567221985806e0470844396b795f2787dd1dc4a10304ec7f22c9fa4f4af",
+      "bytes": 417
+    },
+    {
+      "original": "posters/klobuchar.webp",
+      "deployed": "posters/klobuchar.webp",
+      "original_sha256": "51e04789893c4083829811a9e7736b0d9e018bf397d00525e3b912a43e5cb56e",
+      "bytes": 16550
+    },
+    {
+      "original": "posters/markey.webp",
+      "deployed": "posters/markey.webp",
+      "original_sha256": "4bb0ea9bd88a952da74bdc89755ae6cbccf38f88bfd594f03462ce10084fe074",
+      "bytes": 29614
+    },
+    {
+      "original": "posters/moore.webp",
+      "deployed": "posters/moore.webp",
+      "original_sha256": "55decd95d3fc426181f42bdabe42a81f475b4a86183850256c6fae9b5dd76634",
+      "bytes": 62164
+    },
+    {
+      "original": "posters/ossoff.webp",
+      "deployed": "posters/ossoff.webp",
+      "original_sha256": "7e32fe5cc95036c85a29ae2062e8f6b1cb79245d4baa61d93acdcea32a247d3b",
+      "bytes": 55390
+    },
+    {
+      "original": "posters/pappas.jpg",
+      "deployed": "posters/pappas.jpg.webp",
+      "original_sha256": "e2a7de5daa934d6dccbf3cddf9c7aef47d56d53e6dee74858ad74500272d6c4f",
+      "bytes": 51078
+    },
+    {
+      "original": "posters/pritzker.webp",
+      "deployed": "posters/pritzker.webp",
+      "original_sha256": "5589f01c5cdd0c9da121b35309e14549fd25a89803eb6673bd28de5c8f535fa5",
+      "bytes": 64920
+    },
+    {
+      "original": "posters/sand.webp",
+      "deployed": "posters/sand.webp",
+      "original_sha256": "3cba8d347da9892221712406f4d80e2cc08c73ae73132479a9edaf267412a442",
+      "bytes": 75842
+    },
+    {
+      "original": "posters/shapiro.webp",
+      "deployed": "posters/shapiro.webp",
+      "original_sha256": "2d2b4f56dd84fd762c7a39ff11ca148e13f48b1b338b1390329c1b34b5b4c724",
+      "bytes": 60238
+    },
+    {
+      "original": "posters/stratton.webp",
+      "deployed": "posters/stratton.webp",
+      "original_sha256": "993d51246801863473a392b406ac8e5f04753fb13020b509546407c4502b3053",
+      "bytes": 81392
+    },
+    {
+      "original": "posters/talarico.jpg",
+      "deployed": "posters/talarico.jpg.webp",
+      "original_sha256": "5ed326ace18d5fe4d0c916fe0030ac35394d6b2aafcd0003825c76d55fb3e875",
+      "bytes": 64696
+    },
+    {
+      "original": "posters/turek.webp",
+      "deployed": "posters/turek.webp",
+      "original_sha256": "ae40115fddf0616012c95d53c8be7fb4f06c847acc112c5d7df5db01cd0f9b6f",
+      "bytes": 20320
+    },
+    {
+      "original": "posters/warner.webp",
+      "deployed": "posters/warner.webp",
+      "original_sha256": "9f247db06017cad8503bc621056940262a4fd022c79cd576ff7eb288fffa1919",
+      "bytes": 75244
+    }
+  ]
+}

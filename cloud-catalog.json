@@ -1,0 +1,157 @@
+{
+  "talarico": {
+    "fileName": "talarico.mp4",
+    "sha256": "35be66d98b8c0b2bd97b59ff32f917c4c95be7c7349fd7ebb82ca4b63ea99069",
+    "bytes": 219766366
+  },
+  "hinojosa": {
+    "fileName": "hinojosa.mp4",
+    "sha256": "2ce8c88ac25f3ea4d06d218767c74b206afe47b4c0fa10906c397ef70ae9fc41",
+    "bytes": 235809908
+  },
+  "cooper": {
+    "fileName": "cooper.mp4",
+    "sha256": "d67861b884177ed1892719c09401bca6348e770d342cd9eed5930a11b061527d",
+    "bytes": 133468059
+  },
+  "flanagan": {
+    "fileName": "flanagan.mp4",
+    "sha256": "8fdb97a11ec501194c7c969a84783095b9722fa825abc1b715379ccc3b48fce5",
+    "bytes": 285279872
+  },
+  "elsayed": {
+    "fileName": "elsayed.mp4",
+    "sha256": "83463518e6b9cd25b3f5290165e327f0e59fc592bdd1c8ae771d4edecf92de1e",
+    "bytes": 74519438
+  },
+  "pappas": {
+    "fileName": "pappas.mp4",
+    "sha256": "96ebc17bf445f22fd060439bfcfbcc8fdf1ac67579bf5d945eba85b1f17a2944",
+    "bytes": 102693216
+  },
+  "turek": {
+    "fileName": "turek.mp4",
+    "sha256": "114f0c14481afb0895505331d269178c71b5aa2ce77a62d58e813287a33a0863",
+    "bytes": 181776074
+  },
+  "stratton": {
+    "fileName": "stratton.mp4",
+    "sha256": "d1dac02dc67e1eb92d4ac21245302df301de56c02857ff5fd290a95ea79503b9",
+    "bytes": 121716216
+  },
+  "brown": {
+    "fileName": "brown.mp4",
+    "sha256": "ed82abee0ab41b095aaddf759cdf431919f065978f3e8bf8587f673dab62f92a",
+    "bytes": 139596136
+  },
+  "sand": {
+    "fileName": "sand.mp4",
+    "sha256": "c8ec23ea1e52cac37d3171a6f13b57f7dff883f47a15f5d8728eb0886e22107b",
+    "bytes": 62482689
+  },
+  "ossoff": {
+    "fileName": "ossoff.mp4",
+    "sha256": "9352db9c3b54da2d6b7ec41e4344474fcfcd4becfd1ae1cb5e9b99fea74729c6",
+    "bytes": 126292143
+  },
+  "andrews": {
+    "fileName": "andrews.mp4",
+    "sha256": "8af76c7935b2ca4432dc2d45b90276ca2547cd25bfe1a0fbc5ef75084e506809",
+    "bytes": 212339746
+  },
+  "hamilton": {
+    "fileName": "hamilton.mp4",
+    "sha256": "9f921db5c0e9cc04451e04ebe3d48085e56d41f34b851462e843a68dde7d7730",
+    "bytes": 153705536
+  },
+  "booker": {
+    "fileName": "booker.mp4",
+    "sha256": "f39cc4810cf8afc2538c61f47711d9858960d94d43500ed9c066efe92e6ed2e0",
+    "bytes": 80868998
+  },
+  "markey": {
+    "fileName": "markey.mp4",
+    "sha256": "70e311114065122d9dd97c164ffd873862612cd08a921751d520301a480ecd83",
+    "bytes": 81300393
+  },
+  "hickenlooper": {
+    "fileName": "hickenlooper.mp4",
+    "sha256": "d08949a0ddcb382453836412ceddc1269eb9262248a8bfcef90dfc812a6bf9f7",
+    "bytes": 82256343
+  },
+  "warner": {
+    "fileName": "warner.mp4",
+    "sha256": "a10a38453e905cf308f55d00de5c494c725545f7db211265b4711975b62dbd87",
+    "bytes": 176758457
+  },
+  "acton": {
+    "fileName": "acton.mp4",
+    "sha256": "127edce6aeb723cae795a46716e6ab7b8a1bf4fda3abc2cc8e45e486ed581d94",
+    "bytes": 427925165
+  },
+  "benson": {
+    "fileName": "benson.mp4",
+    "sha256": "947f55ab979c59259808517e264e4f3e1505022ed32f0d1594a7ecc0684a94a8",
+    "bytes": 183616574
+  },
+  "bottoms": {
+    "fileName": "bottoms.mp4",
+    "sha256": "c07037dee1e918544c56cbb7a88feb7827c053e22f58deccb8eeb54f23b85a37",
+    "bytes": 200082614
+  },
+  "haaland": {
+    "fileName": "haaland.mp4",
+    "sha256": "dbf953bf84c1a447596c6df1f403284a505a260caa6c08ebf85aa25464c7b9f7",
+    "bytes": 190993059
+  },
+  "klobuchar": {
+    "fileName": "klobuchar.mp4",
+    "sha256": "2ce99d2d685a749c30c03328cc48cbef1602699579c88e6ee7cc79112433f47c",
+    "bytes": 126002038
+  },
+  "hochul": {
+    "fileName": "hochul.mp4",
+    "sha256": "ea725881cffd3afdabeb79b3ed476df9af90eab35229656036b6620a7f719621",
+    "bytes": 110116986
+  },
+  "pritzker": {
+    "fileName": "pritzker.mp4",
+    "sha256": "8261f10e12957bed17535a2792548f72d28401fc2acc41c895e67711519351e3",
+    "bytes": 219879308
+  },
+  "shapiro": {
+    "fileName": "shapiro.mp4",
+    "sha256": "0adb006c73e2a1eca6882068becc5589cb05116820c5bb66afa1ea21f2dd1ea3",
+    "bytes": 305453421
+  },
+  "moore": {
+    "fileName": "moore.mp4",
+    "sha256": "9d2f2ffc75aded911daa592b55ed4edb5d99d41da72ae7389605d2c40c871140",
+    "bytes": 447555222
+  },
+  "healey": {
+    "fileName": "healey.mp4",
+    "sha256": "60f9ef76dc6ec39fa0f08dbc8429a0516914794b44fbc25e1256f0b0341cc877",
+    "bytes": 61072857
+  },
+  "crowley": {
+    "fileName": "crowley.mp4",
+    "sha256": "bb70bbea4ffbcbfa185130ca7414de64040533c250d0bed8049566a1012a0bdc",
+    "bytes": 148575272
+  },
+  "donalds": {
+    "fileName": "donalds.mp4",
+    "sha256": "6873660783837cec8928ec8a48ec8fabcefab91a22c2ba5a768050a3579c560d",
+    "bytes": 44978118
+  },
+  "barr": {
+    "fileName": "barr.mp4",
+    "sha256": "e8e0429eb7aafc20f0d4f97c44d919de19cf1d0238f6770ae94c79759a67f59e",
+    "bytes": 96422116
+  },
+  "ielts-official": {
+    "fileName": "ielts-official.mp3",
+    "sha256": "d62694bf53ec1532c6c5878ba437c48b52a2a95517e99e9e56049cf1d46df3c6",
+    "bytes": 8347022
+  }
+}

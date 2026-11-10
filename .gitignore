@@ -15,3 +15,14 @@ __pycache__/
 *.mp4
 *.mp3
 *.wav
+
+.canisxuan-data/
+.canisxuan-runtime/
+.catxuan-data/
+.catxuan-runtime/
+.expo/
+.web-export/
+*.tsbuildinfo
+progress.json
+imports.json
+google-drive-folder.json
